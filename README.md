@@ -1,6 +1,12 @@
 # WMScore
 A Jupyter notebook that turns the game scores of #WM2018 into a musical score with music21
 
+## Latest Score
+
+25.6.2018:
+
+![wmscore_round_2](https://user-images.githubusercontent.com/21059419/41848062-7c3e1448-787c-11e8-8ff3-28e21b755dab.png)
+
 ## Prerequisites
 - Jupyter: http://jupyter.org/
 - music21: http://web.mit.edu/music21/
@@ -51,8 +57,3 @@ The server should now be running and the jupyter dashboard should open automatic
 
 To learn more about Jupyter notebooks, see this detailed tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#WhatIs
 
-## Latest Score
-
-25.6.2018:
-
-![wmscore_round_2](https://user-images.githubusercontent.com/21059419/41848062-7c3e1448-787c-11e8-8ff3-28e21b755dab.png)
