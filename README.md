@@ -3,9 +3,9 @@ A Jupyter notebook that turns the game scores of #WM2018 into a musical score wi
 
 ## Latest Score
 
-25.6.2018:
+29.6.2018:
 
-![wmscore_round_2](https://user-images.githubusercontent.com/21059419/41848062-7c3e1448-787c-11e8-8ff3-28e21b755dab.png)
+![wmscore_matchday_3](https://user-images.githubusercontent.com/21059419/42101239-d52099e8-7bc2-11e8-9dc6-9ad9079e425f.png)
 
 ## Prerequisites
 - Jupyter: http://jupyter.org/
